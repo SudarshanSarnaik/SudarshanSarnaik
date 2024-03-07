@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudarshan</h1>
 <h3 align="center">A passionate software engineering from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblFtYkxVY1lMNy14T2hHWmlHR2NwQ09Ebl9Gd3xBQ3Jtc0ttYjV1UlFBWHAwVERMUWdKcmVsVkhSQ1NwRXRpdC10dGhOSVRJTWlaZ2NiOFZERl9rc0JKNlg0THE4SGl1SlhYVERYVDZYdkE2QmJvYnhNRTQzdWNYSDB1UzI2cWM1QkE1cFFHazFKR3h4bHZqVUVzUQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1dbT3BrMssyNzEbbfeGM4q-LSWCjfGB6w/view?usp=sharing">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudarshansarnaik&label=Profile%20views&color=0e75b6&style=flat" alt="sudarshansarnaik" /> </p>
 
