@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudarshan</h1>
 <h3 align="center">A passionate software engineering from India</h3>
-<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1dbT3BrMssyNzEbbfeGM4q-LSWCjfGB6w/view?usp=sharing">
+<img align="right" alt="code" width="400" src="https://drive.google.com/file/d/1dbT3BrMssyNzEbbfeGM4q-LSWCjfGB6w/view?usp=sharing">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudarshansarnaik&label=Profile%20views&color=0e75b6&style=flat" alt="sudarshansarnaik" /> </p>
 
