@@ -23,7 +23,22 @@ I’m a **Java Developer** with a strong passion for building scalable and effic
 
 ---
 
+### **Projects**
+#### 🖥️ **DevNote | Code Editor**
+- Built a Java-based code editor with features like file operations, text formatting, and command prompt integration.
+- **Tech Stack**: Java (AWT, Swing)
 
+#### ☕ **Monday Coffee**
+- Developed a data-driven solution to analyze sales data and recommend optimal locations for coffee shops.
+- **Tech Stack**: SQL, Data Analysis
+
+#### 💸 **Expense Tracker**
+- Created an application to track daily expenses and generate monthly reports for better financial management.
+- **Tech Stack**: Java, Spring Boot
+
+#### 📞 **Smart Contact Manager**
+- Built a Spring Boot application with OAuth-based social login and PostgreSQL integration.
+- **Tech Stack**: Spring Boot, Spring Security, Cloudinary SDK
 
 ---
 
@@ -36,8 +51,15 @@ I’m a **Java Developer** with a strong passion for building scalable and effic
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sudarshan-sarnaik-35a163253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudarshan-sarnaik" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sudarshansarnaik564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sudarshansarnaik" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sudarshan-sarnaik-35a163253" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudarshan-sarnaik" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/sudarshan2001/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudarshan-leetcode" height="30" width="40" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/sudarshansarnaik564/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sudarshan-gfg" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
