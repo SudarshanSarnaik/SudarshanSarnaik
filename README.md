@@ -23,22 +23,7 @@ I’m a **Java Developer** with a strong passion for building scalable and effic
 
 ---
 
-### **Projects**
-#### 🖥️ **DevNote | Code Editor**
-- Built a Java-based code editor with features like file operations, text formatting, and command prompt integration.
-- **Tech Stack**: Java (AWT, Swing)
 
-#### ☕ **Monday Coffee**
-- Developed a data-driven solution to analyze sales data and recommend optimal locations for coffee shops.
-- **Tech Stack**: SQL, Data Analysis
-
-#### 💸 **Expense Tracker**
-- Created an application to track daily expenses and generate monthly reports for better financial management.
-- **Tech Stack**: Java, Spring Boot
-
-#### 📞 **Smart Contact Manager**
-- Built a Spring Boot application with OAuth-based social login and PostgreSQL integration.
-- **Tech Stack**: Spring Boot, Spring Security, Cloudinary SDK
 
 ---
 
